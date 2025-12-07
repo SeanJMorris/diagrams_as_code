@@ -5,3 +5,8 @@
 1. Python's [diagram library](https://diagrams.mingrammer.com/docs/getting-started/installation) requires that [Graphviz](https://www.graphviz.org/download/) is installed in your system. Ensure graphviz is installed with `sudo apt install graphviz`.
 2. Install with uv: `uv tool install diagrams`
 3. Run with `uv run main.py`
+
+## Example Diagrams
+
+![Sean's First Diagram](sean's_first_diagram.png)
+![E-Commerce Scalable System](e-commerce_scalable_system.png)
