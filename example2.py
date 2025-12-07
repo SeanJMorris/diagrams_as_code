@@ -9,7 +9,7 @@ from diagrams.onprem.queue import Kafka
 from diagrams.onprem.analytics import Spark
 from diagrams.aws.integration import SNS
 
-with Diagram("E-Commerce Scalable System", show=False):
+with Diagram("Example_2_E-Commerce_Scalable_System", show=False):
     # Route53 and Load Balancer
     dns = Route53("DNS")
     lb = ELB("Load Balancer")
