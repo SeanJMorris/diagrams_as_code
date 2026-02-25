@@ -18,9 +18,9 @@ Because the source of the diagram is in code, it means it can be
 - Tracked in version control.
 - Interpreted by a machine/AI. This could allow AI tools to update diagrams faster, and potentially be incorporated as a tool for writing code / changing business tooling systems as well.
 
-### Mermaid
+## Mermaid
 
-#### Mermaid - Entity Relationship Diagram
+### Mermaid - Entity Relationship Diagram
 
 ```mermaid
 erDiagram
@@ -43,7 +43,7 @@ erDiagram
 
 ```
 
-#### Mermaid - MindMap Diagram
+### Mermaid - MindMap Diagram
 
 ```mermaid
 mindmap
@@ -144,9 +144,13 @@ with Diagram("diagrams_library__example2", show=False):
 
 The markmap.md file in this repo is the same example you can see [here in the MarkMap playground](https://markmap.js.org/repl). Here is a screenshot:
 
-![MarkMap Example](Screenshot_202026-02-24_20205435.png)
+![MarkMap Example](Screenshot_2026-02-24_205435.png)
 
 ## Some additional notes
+
+### Mermaid Installation Steps
+
+Just download the extension called "Markdown Preview Mermaid Support".
 
 ### Diagrams Library Installation Steps
 
