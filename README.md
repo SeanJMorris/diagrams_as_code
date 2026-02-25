@@ -2,7 +2,7 @@
 
 My top diagramming tools and brief explanations about why:
 
-1. [Mermaid](https://mermaid.js.org/) - my favorite. GitHub support (can appear in README.MD). Robust selection of diagrams.
+1. [Mermaid](https://mermaid.ai/web/) - my favorite. GitHub support (can appear in README.MD). Robust selection of diagrams.
 2. [The Diagrams Library](https://diagrams.mingrammer.com/) robust, great for high-level architecture, but doesn't have GitHub support and may be overkill for this reason.
 3. [MarkMap](https://markmap.js.org/) - good for quick, small mindmaps in particular. No GitHub support though for README.md.
 
@@ -157,3 +157,12 @@ Just download the extension called "Markdown Preview Mermaid Support".
 1. Python's [diagram library](https://diagrams.mingrammer.com/docs/getting-started/installation) requires that [Graphviz](https://www.graphviz.org/download/) is installed in your system. Ensure graphviz is installed with `sudo apt install graphviz`.
 2. Install with uv: `uv tool install diagrams`
 3. Run with `uv run example.py`
+
+### YouTube Videos I Watched to Learn About These Tools
+
+| Channel                                                                 | Title                                                              |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------|
+| [ByteByteGo](https://youtu.be/jCd6XfWLZsg)                              | Top 6 Tools to Turn Code into Beautiful Diagrams                   |
+| [ArjanCodes](https://youtu.be/tPh9_Cx4yZY)                              | Mermaid Vs. PlantUML vs. HackerDraw: Which One Is Best For You?    |
+| [ArjanCodes](https://youtu.be/JiQmpA474BY)                              | Mermaid JS: Finally There's A Great UML &amp; Diagram Drawing Tool |
+| [DevOps & AI Toolkit](https://youtu.be/oiVy7NDm-WM)                     | Diagrams as Code with Mermaid, GitHub, and Visual Studio Code      |
