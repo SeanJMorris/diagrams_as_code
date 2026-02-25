@@ -1,6 +1,6 @@
 # Experimenting with Several Diagrams-As-Code Tools
 
-These tools I experimented with (and my opinions) are:
+My top diagramming tools and brief explanations about why:
 
 1. [Mermaid](https://mermaid.js.org/) - my favorite. GitHub support (can appear in README.MD). Robust selection of diagrams.
 2. [The Diagrams Library](https://diagrams.mingrammer.com/) robust, great for high-level architecture, but doesn't have GitHub support and may be overkill for this reason.
